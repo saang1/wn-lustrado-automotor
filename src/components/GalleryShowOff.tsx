@@ -5,22 +5,22 @@ const GallerySection = () => {
   const [selectedImage, setSelectedImage] = useState<number | null>(null);
   const galleryItems = [
     {
-      image: '/uploads/',
+      image: '/uploads/interior.jpg',
       title: 'Detailing Interior Alfa Romeo',
       service: 'Limpieza Profunda + Acondicionamiento'
     },
     {
-      image: '/uploads/',
+      image: '/uploads/faros.jpg',
       title: 'Pulido de Faros Profesional',
       service: 'Restauración + Protección UV'
     },
     {
-      image: '/uploads/',
+      image: '/uploads/lustrado.jpg',
       title: 'Restauración Sistema de Frenos',
       service: 'Limpieza + Pintura + Protección'
     },
     {
-      image: '/uploads/',
+      image: '/uploads/motor.jpg',
       title: 'Restauración de Llantas Volkswagen',
       service: 'Limpieza + Pulido + Protección'
     }

@@ -1,7 +1,7 @@
 import { Car, Wrench, PaintBucket, Eye, Hammer, Palette } from 'lucide-react';
 
 const data = {
-    name: "Taller de Detailing",
+    name: "WN Lustrado Automotor",
     address: "Calle 123, Ciudad",
     province: "Buenos Aires",
     phone: "+54 9 11 3119-2187",
